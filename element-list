@@ -31,6 +31,7 @@ com.thevoxelbox.voxelsniper.sniper.snipe.performer
 com.thevoxelbox.voxelsniper.sniper.snipe.performer.message
 com.thevoxelbox.voxelsniper.sniper.toolkit
 com.thevoxelbox.voxelsniper.util
+com.thevoxelbox.voxelsniper.util.io
 com.thevoxelbox.voxelsniper.util.material
 com.thevoxelbox.voxelsniper.util.math
 com.thevoxelbox.voxelsniper.util.message
