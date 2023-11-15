@@ -14,8 +14,9 @@ com.thevoxelbox.voxelsniper.brush.type.shell
 com.thevoxelbox.voxelsniper.brush.type.stamp
 com.thevoxelbox.voxelsniper.brush.type.stencil
 com.thevoxelbox.voxelsniper.command
+com.thevoxelbox.voxelsniper.command.argument
+com.thevoxelbox.voxelsniper.command.argument.annotation
 com.thevoxelbox.voxelsniper.command.executor
-com.thevoxelbox.voxelsniper.command.property
 com.thevoxelbox.voxelsniper.config
 com.thevoxelbox.voxelsniper.listener
 com.thevoxelbox.voxelsniper.performer
@@ -37,4 +38,3 @@ com.thevoxelbox.voxelsniper.util.math
 com.thevoxelbox.voxelsniper.util.message
 com.thevoxelbox.voxelsniper.util.minecraft
 com.thevoxelbox.voxelsniper.util.painter
-com.thevoxelbox.voxelsniper.util.text
